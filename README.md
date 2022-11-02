@@ -1,5 +1,8 @@
 # 👩‍💻 KG Technical Test
 
+Heya! Welcome to the tech test, don't panic and try to enjoy it.
+Consider it an opportunity to do things your own way.
+
 ## 📦 What to deliver
 
 A link to your github (or any similar hub) repo, with a clear README.md file on how to install and run the project, feel free to also explain some technical choices you made.
@@ -74,7 +77,7 @@ Congrats !! The agency has started to use your program, but an important informa
   - Title
   - Date Created
   - Email of the tenant renting
-- Ad a sorting feature which allows to sort ads based on:
+- Add a sorting feature which allows to sort ads based on:
   - Rent Price
   - Date Created
 
