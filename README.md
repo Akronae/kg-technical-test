@@ -1,7 +1,9 @@
 # 👩‍💻 KG Technical Test
 
 Heya! Welcome to the tech test, don't panic and try to enjoy it.
-Consider it an opportunity to do things your own way.
+Consider it an opportunity to do things your own way. 
+
+![qs](https://media1.giphy.com/media/8xgqLTTgWqHWU/giphy.gif)
 
 ## 📦 What to deliver
 
